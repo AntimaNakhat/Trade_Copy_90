@@ -18,12 +18,14 @@ Win Positions
 
 Total Positions 
 
-**Findings**
+**Findings**:
+
 📌Accounts with Port_ID: 3977234346014419201 had the highest profit.
 
 📌Win rate played a smaller but significant role.
 
-**Assumptions**
+**Assumptions**:
+
 📌 Only executed trades are considered.
 
 📌 Assumes buy & sell prices are correctly recorded.
